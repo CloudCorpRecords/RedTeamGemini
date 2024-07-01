@@ -9,6 +9,8 @@ python = ">=3.10.0,<3.12"
 flask = "^3.0.3"
 google-generativeai = "^0.7.1"
 flask-cors = "^4.0.1"
+beautifulsoup4 = "^4.12.3"
+requests = "^2.32.3"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
